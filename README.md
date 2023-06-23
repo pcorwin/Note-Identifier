@@ -1,4 +1,9 @@
-# ML-Pitch-Identifier
-Report for previously completed pitch identification network. (Under previous legal name) 
+# [Pitch Identifying Model](https://github.com/camhud/Note-Recognition)
 
-Link to original GitHub page: https://github.com/camhud/Note-Recognition
+## About
+
+This repository serves as a link to the pitch identifying machine learning algorithm project. 
+
+Project report linked in title.
+
+ 
