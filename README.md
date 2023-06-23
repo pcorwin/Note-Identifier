@@ -1,4 +1,4 @@
-# [Pitch Identifying Model](https://github.com/camhud/Note-Recognition)
+# [Note Identifying Model](https://github.com/camhud/Note-Recognition)
 
 ## About
 
